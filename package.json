@@ -3,7 +3,6 @@
 	"name": "nike-course",
 	"private": true,
 	"version": "0.0.0",
-	"homepage": "https://Damianchii.github.io/nike-shoes-store",
 	"type": "module",
 	"scripts": {
 		"dev": "vite",
